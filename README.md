@@ -56,7 +56,7 @@ Assignment 07 SEES3540
   <div class="content">
     <p id="text">
       This is a simple paragraph with an image inside 
-      <img src="https://via.placeholder.com/50" alt="placeholder" class="inline-img">
+      <img src="squirrel.jpg" alt="my image" class="inline-img">
       the text.
     </p>
 
@@ -67,7 +67,7 @@ Assignment 07 SEES3540
     function changeText() {
       document.getElementById("text").innerHTML = 
         'You clicked the button! Here is another image ' +
-        '<img src="https://via.placeholder.com/50/ff0000" class="inline-img">';
+        '<img src="squirrel.jpg" class="inline-img">';
     }
   </script>
 
