@@ -1,2 +1,3 @@
-# Repository: SEES3540 - Owen Barstad (Assignment 7)
-This portfolio includes my geographic visualization final project portfolio!
+# Geographic Visualization Portfolio
+### SEES:3540 - Owen Barstad
+This portfolio includes various maps made using Observable in SEES:3540
